@@ -14,7 +14,9 @@ Resumo do Curso de Wordpress - Nivel JR.
 
 ## <a name="parte1">1 - Introdução</a>
 
-
+- WP como CMS
+- Por que Wordpress
+- Wordpress.org vs Wordpress.com
 
 [Voltar ao Índice](#indice)
 
@@ -23,7 +25,15 @@ Resumo do Curso de Wordpress - Nivel JR.
 
 ## <a name="parte2">2 - WP Básico</a>
 
-
+- Desenvolvimento Local
+  - XAMPP Servidores Locais
+- Instalação do Wordpress
+  - Baixando do site e criando BD de dados
+- Interface de administração do Wordpress
+  - Detalhes do painel, adição de postagens, imagens e outras configurações
+- Temas do wordpress
+- Plugins do wordpress
+- Configuração do Wordpress
 
 [Voltar ao Índice](#indice)
 
