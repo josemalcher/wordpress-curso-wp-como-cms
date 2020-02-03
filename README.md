@@ -42,7 +42,9 @@ Resumo do Curso de Wordpress - Nivel JR.
 
 ## <a name="parte3">3 - PHP para WP</a>
 
-
+- O que é PHP
+- Editar Arquivos
+- Variáveis, Condicionamento e Loop
 
 [Voltar ao Índice](#indice)
 
