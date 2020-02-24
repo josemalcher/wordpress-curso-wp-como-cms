@@ -132,15 +132,16 @@ $RECYCLE.BIN/
 
 ### WordPress ###
 # ignore everything in the root except the "wp-content" directory.
-!wp-content/
+#!wp-content/
 
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
-projeto_wp01/wp-content/*
-projeto_wp01/wp-content/mu-plugins/
+#projeto_wp01/*
+#projeto_wp01/wp-content/
+#projeto_wp01/wp-content/mu-plugins/
 projeto_wp01/wp-content/plugins/
-projeto_wp01/wp-content/themes/
-projeto_wp01/*
+!projeto_wp01/wp-content/themes/
+!projeto_wp01/wp-content/themes/rest/*
 
 # ignore these plugins
 wp-content/plugins/hello.php

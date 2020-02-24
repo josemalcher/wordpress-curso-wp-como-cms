@@ -186,7 +186,15 @@ M
 
 ## <a name="parte4">4 - HTML para WP</a>
 
-
+- Novo tema Wordpress
+  - projeto_wp01\wp-content\themes\rest
+- Header e Footer
+- Template de Página
+- O Loop
+- Advance custom Field
+- Valores de Outras páginas
+- SEO e Contato
+- Functions e Menu
 
 [Voltar ao Índice](#indice)
 
